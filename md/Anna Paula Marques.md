@@ -6,9 +6,10 @@
 
 - annamarquess.silva@gmail.com :e-mail:
 
-- Linkedin
+- [Linkedin](https://www.linkedin.com/feed/?trk=BR-SEM_google-adwords_Jordan-brand-sign-up) 
 
-- Github
+
+- [Github](https://github.com/AnnaPaulaMarques)
 
   
 
