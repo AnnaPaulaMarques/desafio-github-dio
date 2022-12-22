@@ -1,6 +1,6 @@
 # desafio-github-dio
 
-Repositório do Desafio de Proejto sobre Git/GitHUb da Dio.
+Repositório do Desafio de Projeto sobre Git/GitHub da Dio.
 
 Conhecendo o Git/GitHub 🍀
 
